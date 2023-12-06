@@ -1,0 +1,33 @@
+body{
+   
+    background-image: linear-gradient(    to left,green, blue);
+  
+}
+
+.head1{
+     font-size: 50px;
+     font-family: 'Courier New', Courier, monospace;
+     color: whitesmoke;
+     padding-left: 15%;
+   
+     
+}
+p{ padding-left: 29%;
+
+}
+
+.head1:hover{
+    color: blue;
+}
+
+.head2::first-letter { 
+    font-size: 8rem ;
+    
+   }
+
+   *{
+    color: orangered;
+   }
+  
+   
+
